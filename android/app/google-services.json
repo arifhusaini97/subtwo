@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897477845962",
+    "firebase_url": "https://eventscalendar-6b6fa.firebaseio.com",
+    "project_id": "eventscalendar-6b6fa",
+    "storage_bucket": "eventscalendar-6b6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897477845962:android:59a1d8d6c8a7c750fae533",
+        "android_client_info": {
+          "package_name": "com.satuone.subtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897477845962-ierco9gqeksm8mjc1ovf82gg2r6u2f0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satuone.subtwo",
+            "certificate_hash": "ca272d0b84bf650a8df7257d45467952bf537f87"
+          }
+        },
+        {
+          "client_id": "897477845962-kk7lnm5f5l7jnlmeght0dj5pivr4k3lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfLvy9fZSmwp59GXbNPc4O5CGDJJUTuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897477845962-kk7lnm5f5l7jnlmeght0dj5pivr4k3lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
